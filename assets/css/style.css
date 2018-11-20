@@ -112,3 +112,8 @@ li:first-child {
     background-color: #ffffff;
     border-color: #dddddd;
 }
+
+.form {
+    align-content: center;
+    padding: 50px;
+}
